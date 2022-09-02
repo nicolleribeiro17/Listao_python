@@ -1,0 +1,22 @@
+from locale import ABDAY_1
+
+
+2) Digite cada linha abaixo no shell do Python e informe quais estão corretos e quais apresentam erro:
+
+1
+
+1a
+
+a1
+
+1.
+
+.2
+
+-.3
+
+'agua"limpa"
+
+"agua""
+
+"""teste 1 2 3"""
